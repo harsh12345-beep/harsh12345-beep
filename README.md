@@ -2,7 +2,8 @@
 <!---
 harsh12345-beep/harsh12345-beep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----># 🚀 Harsh Kumar Singh | Code Alchemist 👨‍💻⚡  
+--->
+## 🚀 Harsh Kumar Singh | Code Alchemist 👨‍💻⚡  
 
 🔹 **Python Magician** 🐍 | **Django Wizard** 🏗️ | **Jetpack Compose Sorcerer** ✨  
 🔹 **Full-stack Developer, AI Enthusiast, and part-time Bug Exorcist** 🔥👹  
