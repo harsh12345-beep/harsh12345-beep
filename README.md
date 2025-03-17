@@ -2,32 +2,32 @@
 <!---
 harsh12345-beep/harsh12345-beep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-🚀 Harsh Kumar Singh | Code Alchemist 👨‍💻⚡
-🔹 Python Magician 🐍 | Django Wizard 🏗️ | Jetpack Compose Sorcerer ✨
-🔹 Full-stack Developer, AI Enthusiast, and part-time Bug Exorcist 🔥👹
-🔹 On a mission to build, break, and fix things (mostly in that order) 🚧🔨
+---># 🚀 Harsh Kumar Singh | Code Alchemist 👨‍💻⚡  
 
-🌎 Who Am I?
-💾 Code whisperer who speaks in Python, JavaScript, and Kotlin.
-🖥️ Can turn coffee ☕ into APIs, sleepless nights 🌙 into projects, and errors 🚨 into Stack Overflow searches.
-💡 Always learning, experimenting, and debugging—sometimes all at once.
+🔹 **Python Magician** 🐍 | **Django Wizard** 🏗️ | **Jetpack Compose Sorcerer** ✨  
+🔹 **Full-stack Developer, AI Enthusiast, and part-time Bug Exorcist** 🔥👹  
+🔹 On a mission to **build, break, and fix things** (mostly in that order) 🚧🔨  
 
-🚀 What I Do?
-🔹 Automate Everything – If I do something twice, I write a script for it. 🤖
-🔹 Django & AI Developer – Turning data into decisions. 🧠📊
-🔹 Mobile Dev – Building Jetpack Compose apps that may or may not crash. 📱🔥
-🔹 Docker Explorer – Containerizing everything, even my coffee mug. ☕🐳
+## 🌎 Who Am I?  
+💾 **Code whisperer** who speaks in **Python, JavaScript, and Kotlin**.  
+🖥️ Can turn **coffee ☕ into APIs, sleepless nights 🌙 into projects, and errors 🚨 into Stack Overflow searches**.  
+💡 Always **learning, experimenting, and debugging**—sometimes all at once.  
 
-💡 Fun Facts
-🔥 I once debugged a bug so deep, I found another developer’s comments from 2010.
-👨‍🏫 Taught an AI model to write jokes… now it roasts me instead. 🤖🔥
-💀 I see null in my dreams and wake up screaming.
+## 🚀 What I Do?  
+🔹 **Automate Everything** – If I do something twice, I write a script for it. 🤖  
+🔹 **Django & AI Developer** – Turning data into decisions. 🧠📊  
+🔹 **Mobile Dev** – Building Jetpack Compose apps that may or may not crash. 📱🔥  
+🔹 **Docker Explorer** – Containerizing everything, even my coffee mug. ☕🐳  
 
-📫 Connect With Me!
-💼 [Portfolio](https://harsh12345-beep.github.io/Portfolio-1/#)| | 📩 harsh8750994013@gmail.com
-💻 “If it works, don’t touch it. If it breaks, blame the intern.” 😎
+## 💡 Fun Facts  
+🔥 I once **debugged a bug so deep**, I found another developer’s comments from **2010**.  
+👨‍🏫 Taught an AI model to write **jokes**… now it **roasts me instead**. 🤖🔥  
+💀 I see **null** in my dreams and wake up screaming.  
 
+## 📫 Connect With Me!  
+💼 **[Portfolio](https://harsh12345-beep.github.io/Portfolio-1/#)** | 📩 **harsh8750994013@gmail.com**  
+
+💻 *“If it works, don’t touch it. If it breaks, blame the intern.”* 😎  
 
 
 
